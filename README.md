@@ -8,30 +8,30 @@
 </p>
 <h3 align="center">Languages and technologies</h3>
     <div align="center">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" width=42 />
-    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width=42 />
-    <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" width=42 />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" width=42 />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png?size=48" width=42 />
+    <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" width=42 /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width=42 /></a>
+    <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" width=42 /></a>
+    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" width=42 /></a>
+    <a href="https://www.perl.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png?size=48" width=42 /></a>
     <br>
     </div>
 
 <hr>
 <div align="center">
     <div>
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width=42 />
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width=42 />
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48" width=42 />
-        <img src="https://github.com/tailwindlabs.png?size=40" width=42 />
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png?size=48" width=42 />
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" width=42 />
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png?size=48" width=42 />
+        <a href="https://www.w3.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width=42 /></a>
+        <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width=42 /></a>
+        <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48" width=42 /></a>
+        <a href="https://tailwindcss.com/"><img src="https://github.com/tailwindlabs.png?size=40" width=42 /></a>
+        <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png?size=48" width=42 /></a>
+        <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" width=42 /></a>
+        <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png?size=48" width=42 /></a>
     </div>
         <div>
         <h2 align="center"></h2>
-        <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width=42 /> 
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" width=42 />
-        <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-5-1175140.png?f=webp&w=512" width=42 />
+        <a href="https://nodejs.org/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width=42 /></a>
+        <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?size=48" width=42 /></a>
+        <a href="https://www.mongodb.com/fr-fr"><img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-5-1175140.png?f=webp&w=512" width=42 /></a>
     </div>
 </div>
 <br>
