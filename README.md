@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats-emimint-stats.vercel.app/api/top-langs/?username=emimint&layout=compact)](https://github.com/emimint/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats-emimint-stats.vercel.app/api?username=emimint&show_icons=true&theme=radical)
+
 <!--
 **Emimint/Emimint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
