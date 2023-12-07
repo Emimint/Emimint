@@ -1,25 +1,3 @@
-<style>
-.container{
-    display: flex;
-    justify-content:center;   
-    align-items: center;
-    gap: 10px;
-}
-
-.container div {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-a {
-    text-decoration: none;
-    color: gray;
-    font-weight: bold;
-    font-size: 14px;
-}
-</style>
-
 <body>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=808080&center=true&vCenter=true&width=350&height=40&lines=Hey+there+👋🏿+-+Welcome+!+I+am+Emilie+🙃">
