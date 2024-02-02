@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  I'm a former 🌿 plant bio-informatician 🧪 who decided for a switch in carrier. Currently, I am a still <a href="https://www.crosemont.qc.ca/programme/programmation-orientee-objet-et-technologies-web/">learning</a>, <em> hightly movitated </em> analyst developer. I am always curious and ready for new challenges 💪🏿. Please have a look at some of my WIP 🛠 (work-in-progress) ✨! 
+  I'm a former 🌿 plant bio-informatician 🧪 who decided for a switch in carrier. I am a still <a href="https://www.crosemont.qc.ca/programme/programmation-orientee-objet-et-technologies-web/">learning</a>, <em> hightly movitated </em> software developer. I am always curious and ready for new challenges 💪🏿. Please have a look at some of my WIP 🛠 (work-in-progress) ✨! 
 </p>
 <h3 align="center">Languages and technologies</h3>
     <div align="center">
@@ -12,10 +12,11 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width=42 /></a>
     <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" width=42 /></a>
     <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" width=42 /></a>
+    <a href="https://www.php.net/"><img src="https://www.php.net/images/logos/new-php-logo.png" width=42 /></a>
     <br>
     </div>
     <div align="center">
-        <p>Python, C#, Java, Javascript</p>
+        <p>Python, C#, Java, Javascript, PHP</p>
     </div>
 
 <hr>
@@ -28,9 +29,10 @@
         <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png?size=48" width=42 /></a>
         <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" width=42 /></a>
         <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png?size=48" width=42 /></a>
+        <a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width=42 /></a>
     </div>
      <div align="center">
-        <p>HLML5, CSS, Boostrap, Tailwind, Sass, React, Angular</p>
+        <p>HLML5, CSS, Boostrap, Tailwind, Sass, React, Angular, Django</p>
     </div>
         <div>
         <h2 align="center"></h2>
@@ -52,7 +54,4 @@
     </a>
 </div>
 
-
 </body>
-
-
