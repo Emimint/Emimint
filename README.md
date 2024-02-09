@@ -46,12 +46,9 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/emimint/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-emimint-stats-two-omega-44.vercel.app/api/top-langs/?username=emimint&layout=compact" />
-    </a>
-    <a href="https://github.com/emimint/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-emimint-stats-two-omega-44.vercel.app/api?username=emimint&show_icons=true&theme=radical" />
+<a href="https://github.com/emimint/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-emimint.vercel.app/api/top-langs/?username=emimint&layout=compact" />
     </a>
 </div>
-
 </body>
+
