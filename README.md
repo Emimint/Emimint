@@ -30,9 +30,10 @@
         <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png?size=48" width=42 /></a>
         <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png?size=48" width=42 /></a>
         <a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width=42 /></a>
+      <a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width=42 /></a>
     </div>
      <div align="center">
-        <p>HLML5, CSS, Boostrap, Tailwind, Sass, React, Angular, Django</p>
+        <p>HLML5, CSS, Boostrap, Tailwind, Sass, React, Angular, Django, Laravel</p>
     </div>
         <div>
         <h2 align="center"></h2>
