@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  I'm a former 🌿 plant bio-informatician 🧪 who decided for a switch in carrier. I am a still <a href="https://www.crosemont.qc.ca/programme/programmation-orientee-objet-et-technologies-web/">learning</a>, <em> hightly movitated </em> software developer. I am always curious and ready for new challenges 💪🏿. Please have a look at some of my WIP 🛠 (work-in-progress) ✨! 
+  I am a full-stack software developer. I am always curious and ready for new challenges 💪🏿. Please have a look at some of my WIP 🛠 (work-in-progress) ✨! 
 </p>
 <h3 align="center">Languages and technologies</h3>
     <div align="center">
